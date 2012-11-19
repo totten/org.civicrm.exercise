@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="org.civicrm.exercise" type="module">
+  <file>exercise</file>
+  <name>Exercise</name>
+  <description>Record an activity for each profile-form submission</description>
+  <license>BSD-4</license>
+  <maintainer>
+    <author>Tim</author>
+    <email>tim@example.com</email>
+  </maintainer>
+  <releaseDate>2012-11-19</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>This is a new, undeveloped module</comments>
+  <civix>
+    <namespace>CRM/Exercise</namespace>
+  </civix>
+</extension>

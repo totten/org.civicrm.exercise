@@ -1,0 +1,1 @@
+This is the exercise created on the big screen during the Toronto developer training (Nov 2012).
